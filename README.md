@@ -4,7 +4,7 @@ This aim of this repository is to create a suite of Python/R functions cabable o
 
 Scraping
 
-As of the last update, the BBR_Scrape_Tools.py module has the following functions:
+As of the last update, per_game_seasons_srape.py module has the following functions:
 
 get_all_players()
 Returns a dataframe whose two columns are the names of all NBA/ABA players in history, and the corresponding webpage URLS.
